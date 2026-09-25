@@ -2,7 +2,7 @@
 
 A responsive e-commerce product listing page built with React + Vite + Tailwind CSS.
 
-![Shoply preview](./preview.png)
+![Shoply preview](./screenshots/light-mode1.png)
 
 ## Features
 
