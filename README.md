@@ -99,6 +99,12 @@ With more time, I would add:
 
 ##  Screenshots
 
+### Desktop — Light Mode1
+![Desktop Dark](./screenshots/light-mode1.png)
+
+### Desktop — Light Mode2
+![Desktop Dark](./screenshots/light-mode2.png)
+
 ### Desktop — Light Mode
 ![Desktop Light](./screenshots/light-mode-desktop.png)
 
